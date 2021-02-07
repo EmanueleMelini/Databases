@@ -1,0 +1,1 @@
+create table dati(cod int not null auto_increment, user varchar(20), password varchar(20), primary key(cod))engine=innodb;
